@@ -1,6 +1,6 @@
 ### Hi there! My name is Roman Kuklin 👋
 
-* I’m a software engineer, mentor and teacher for newbie developers. 
+* I’m a software engineer, mentor / teacher for newbie developers. 
 * My professional interests are software development, computer science, mentoring people, etc.
 * My hobbies are health, psychology, neurobiology, biochemistry, investments, etc.
 * Open for mentorship, consulting, and freelance opportunities.
